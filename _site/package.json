@@ -1,0 +1,21 @@
+{
+  "name": "material-jekyll",
+  "version": "0.1.0",
+  "description": "Material Design for Jekyll using Polymer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charbelrami/material-jekyll.git"
+  },
+  "keywords": [
+    "material-design",
+    "jekyll",
+    "polymer",
+    "web-components"
+  ],
+  "author": "Charbel Rami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charbelrami/material-jekyll/issues"
+  },
+  "homepage": "https://github.com/charbelrami/material-jekyll"
+}

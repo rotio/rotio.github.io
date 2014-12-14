@@ -20,4 +20,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+<<<<<<< HEAD
 >>>>>>> a8fd3df5bc19c41e5b3d29647775e18d3ace507b
+=======
+>>>>>>> origin/master

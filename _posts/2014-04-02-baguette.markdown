@@ -1,0 +1,88 @@
+---
+layout: post
+title: "Baguette"
+date: 2014-04-02 10:09:50 -0600
+comments: true
+categories: 
+image: http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg
+alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-04-02%2Fbread_angle.jpg
+author: rotio
+keywords: baguette, french baguette, bread, italian bread
+description: Straightforward baguette
+external-url: http%3A%2F%2Frotiofood.com%2Fblog%2F2014%2F04%2F02%2Fbaguette%2F
+twitter-text: Straightforward%20baguette%20on%20rotio%2Ffood%20%23rotiofood
+buddy: 0
+---
+<!-- more -->
+<img src="http://rotio.net/rotiofood/2014-04-02/bread_angle.jpg" />
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
+
+
+<h4>Story</b> </h4>
+  <div>
+	<p>
+	<img src="http://rotio.net/rotiofood/2014-04-02/bread_all.jpg" />Good bread is up there with water on my "need it to live" list. There's just something about breaking bread that has a nice crunchy crust and a light airy center that is incredibly satisfying. When you can make your own and serve it warm, butter half melts and seeps into all of the nooks and crannies like it was made to settle in there. Usually, we serve these baguettes with something saucy and a hunk lives in our left hand as we eat, serving as an "Italian napkin" to sop up all of the goodness left on the plate. Bread is easier than you think. If you fail the first time, try and try again. Once you nail it, you won't go back.</p>  
+  </div>
+
+<h4>Recipe</b> </h4> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h4 itemprop="name">baguette</h4>
+  
+  <br />
+    April 2, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
+  
+  <br /><span itemprop="description">Straightforward Baguette</span><br />
+
+  <br />Prep time: <time datetime="PT3H" itemprop="prepTime">3 h</time> 
+  <br />Cook time: <time datetime="PT0H30M" itemprop="cookTime">30m</time>
+  <br />Total time: <time datetime="PT3H30M" itemprop="totalTime">3h 30m</time>
+  <br />Yield: <span itemprop="recipeYield">3 loaves</span>
+  
+  <br />
+  
+
+  <br /><h5>Ingredients:</h5>
+  <br /> 
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Bread Flour</span>: 
+      <span itemprop="amount">3 c</span> 
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Warm Water</span>:
+      <span itemprop="amount">1 and 1/4 c</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Active dry yeast</span>:
+      <span itemprop="amount">1 packet</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">2 tsp</span>
+    </span><br />
+
+	
+
+	
+  <br /><h5>Directions:</h5>
+	
+    <div itemprop="recipeInstructions">
+	  1. Whisk together yeast and water in large bowl, let sit until yeast is foamy to ensure your yeast is alive.<br/>
+      2. Add flour, stir vigorously, and allow to sit so the flour can hydrate (25 minutes).<br />
+	  3. Using a spoon, heel of your hand, or dough hook on machine, beat up the flour for about 10 minutes until the gluten is happy and the dough is elastic.<br />
+	  4. Lightly spray or grease a bowl, add dough, cover tightly with plastic wrap and allow to rise until doubled (about 50 minutes). <br />
+      5. Turn out dough and shape into a rectangle (about 8" x 5"). Fold the long edges in to meet at the middle and lightly press down with the heel of your hand. Now fold short sides in to meet in middle and again, lightly press down with the heel of your hand. Return to bowl (seam side down) and allow to rise again until doubled (about 1 hour).<br />
+	  6. Place baking stone in oven on top shelf and preheat to 475 F.<br />
+	  7. Divide dough into 3 pieces and gently roll into 12 - 16 inch ropes (try not to crush the air bubbles if possible, they are your friends).<br/>
+	  8. Place cast iron skillet in base of oven. <br />
+	  9. Let dough rise, covered tightly with plastic, on floured parchment paper or pan for about 50 minutes. <br />
+	  10. Slash top of dough with razor or sharp knife in three or four lines, diagonal to the length of the loaf. <br />
+	  11. Transfer dough to baking stone, gently (use spatulas or parchment paper as a guide to transfer) -- immediately place three ice cubes in cast iron skillet and shut the oven door to create a humid environment.<br/>
+	  12. Bake until dark golden brown (about 35 minutes). <br />
+	 </div>
+
+	
+
+	</div>
+
+

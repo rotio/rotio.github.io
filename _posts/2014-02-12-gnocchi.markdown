@@ -1,0 +1,97 @@
+---
+layout: post
+title: "Gnocchi"
+date: 2014-02-12 9:15:50 -0600
+comments: true
+categories: 
+image: http://rotio.net/rotiofood/2014-02-12/gnocci_plated.jpg
+alt-image: http%3A%2F%2Frotio.net%2Frotiofood%2F2014-02-12%2Fgnocci_plated.jpg
+author: rotio
+keywords: gnocchi, gnocchi with tomato sauce, tomato, mozzarella, easy gnocci
+description: gnocchi with tomato sauce and mozzarella.
+external-url: http%3A%2F%2Frotiofood.com%2Fblog%2F2014%2F02%2F12%2Fgnocchi%2F
+twitter-text: gnocchi%20with%20tomato%20sauce%20and%20mozzarella.%20on%20rotio%2Ffood%20%23rotiofood 
+buddy: 0
+---
+<!-- more -->
+<img src="http://rotio.net/rotiofood/2014-02-12/gnocci_plated.jpg" />
+<a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
+
+
+<h4>Story</h4>
+  <div>
+	<img src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
+    <p>
+	I've been asking around for examples of things people really enjoy eating but don't know how to make themselves. My sister-in-law suggested gnocchi. This is exactly the type of challenge I was looking for: universally delicious but not straightforward as far as how it's made. Here is the first crack at the gnocchi themselves only, sauce is another animal all together (one of my favorite animals that deserves its own post). These came out tasty but not perfect, they were slightly drier than I hoped they would be. I roasted then grated the potatoes per a suggestion online - I have a feeling steaming then ricing/mashing will yield a much more tender dumpling.  Future improvements and flavor combinations to come.
+	</p>
+  </div>
+<h4>Recipe</b> </h4> 
+  <div itemscope itemtype="http://schema.org/Recipe" >
+  <h4 itemprop="name">Gnocchi</h4>
+  
+  <br />
+    February 12, 2014</time>
+  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-12/gnocci_assembly.gif" />
+  
+  <br /><span itemprop="description">Basic gnocchi.</span><br />
+
+  <br />Prep time: <time datetime="PT1H45M" itemprop="prepTime">1h 45m</time> 
+  <br />Cook time: <time datetime="PT15M" itemprop="cookTime">15m</time>
+  <br />Total time: <time datetime="PT2H" itemprop="totalTime">2h</time>
+  <br />Yield: <span itemprop="recipeYield">2 servings </span>
+  
+  <br />
+  <br /><h5>Ingredients:</h5>
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Russet Potatoes</span>: 
+      <span itemprop="amount">1 lb</span> (we used 2 medium potatoes)
+    </span><br />
+    <span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Egg Yolks</span>:
+      <span itemprop="amount">3</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Parmigiano Reggiano</span>:
+      <span itemprop="amount">1/2 c, grated</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Nutmeg</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Salt</span>:
+      <span itemprop="amount">1/2 tsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Black Pepper</span>:
+      <span itemprop="amount">1/4 tsp</span>
+    </span><br />
+	<span itemprop="ingredients" itemscope itemtype="http://schema.org/RecipeIngredient">
+      <span itemprop="name">Flour</span> (all purpose):
+      <span itemprop="amount">1 c</span>
+    </span><br />
+	
+	
+  <br /><h5>Directions:</h5>
+	
+    <div itemprop="recipeInstructions">
+      1. Preheat oven to 425 degrees (F).<br />
+	  2. Roast potatoes for 40 minutes. <br />
+      3. When cool enough to handle, remove skins and grate the potatoes. <br />
+	  4. Add egg yolks, cheese, nutmeg, salt, pepper and mix with hands to combine. <br />
+	  5. Flour board, flatten dough into a rectangular shape, and sprinkle about half of the flour onto the top of the dough. <br />
+	  6. Press flour into dough and fold dough in half once. Add flour to both sides of folded dough, work flour in and fold again. Continue this process until the dough holds together when rolled. <br />
+	  7. Roll into four 1/2" ropes as shown above.<br />
+	  8. Cut these into 1" long pieces and roll on fork as seen [<a href="http://www.youtube.com/watch?v=kD-m_GYf35E">here</a>].<br />
+	  9. Dust with flour and allow to dry under fan for 30 minutes.<br />
+	  10. Boil in liberally salted water until they float. Allow to boil while floating for an additional 90 seconds.<br />
+	  11. Remove from water and toss with favorite sauce.<br />
+	  12. If desired, top with cheese and broil for 5 minutes.<br />
+	  <br /> <br />
+	  This recipe was adapted from recipes by Michael Chiarello and Mario Batali of the Food Network.
+	</div>
+	</div>
+
+
+
+ 
