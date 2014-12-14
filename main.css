@@ -72,11 +72,11 @@ a:hover {
 }
 
 core-header-panel {
-  background-color: #00bcd4;
+  background-color: #E53935;
 }
 
 html /deep/ core-toolbar {
-  background-color: #00acc1;
+  background-color: #C62828;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -119,4 +119,9 @@ core-menu paper-item, core-menu paper-item a {
 
 .download-button {
   margin-left: 16px;
+}
+
+img{
+	max-width:100%;
+	box-shadow: 0px 8px 17px rgba(0, 0, 0, 0.2)
 }
