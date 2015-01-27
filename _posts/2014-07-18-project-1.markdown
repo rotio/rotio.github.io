@@ -2,9 +2,8 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: chef.png
+img: cabin.png
 alt: image-alt
-cap: Rotio/Food
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
