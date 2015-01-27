@@ -9,7 +9,7 @@ linkout: #
 screen: colts.png
 project-date: June 2011
 client: Indianapolis Colts
-category: Web Development
+category: Machine Learning
 description: Colts nerd stuff here.
 
 ---
